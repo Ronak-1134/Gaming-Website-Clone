@@ -1,12 +1,37 @@
-# React + Vite
+# ⚡ React + GSAP Animated Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually stunning, scroll-animated landing page built with **React**, **GSAP (GreenSock)**, and **Tailwind CSS**, inspired by creative portfolios like Zentry but completely customized with unique animations, features, and content.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎯 **GSAP ScrollTrigger** animations on page scroll
+- 💬 **AnimatedText component** for staggered title reveals
+- 🧊 **Interactive Tilt effects** on cards using Vanilla Tilt
+- 🖼️ Responsive **Bento-style layout** for content sections
+- 🎨 Fully responsive and theme-ready UI
+- 🧩 Modular component-based structure for scalability
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Technologies Used
+
+| Tech            | Role                         |
+|-----------------|------------------------------|
+| React.js        | Frontend framework           |
+| GSAP            | Scroll and timeline animations |
+| Tailwind CSS    | Styling and layout           |
+| Vite            | Build tool & dev server      |
+| React Icons     | Icon set                     |
+| Vanilla Tilt.js | Tilt/hover 3D effect         |
+
+---
+
+🧠 Inspiration
+Inspired by modern creative websites and motion design trends, this project was initially based on the Zentry UI but has been fully restructured and personalized with original design, content, and animations.
+
+
+👨‍💻 Author
+Ronak Vaghela
+Front-End Developer & Creative Coder
