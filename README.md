@@ -2,7 +2,7 @@
 
 A visually stunning, scroll-animated landing page built with **React**, **GSAP (GreenSock)**, and **Tailwind CSS**, inspired by creative portfolios like Zentry but completely customized with unique animations, features, and content.
 
-🔗 **[Live Demo]([https://your-live-demo-link.com](https://gaming-website-clone-8q2c.vercel.app/))**
+🔗 **[Live Demo]((https://gaming-website-clone-8q2c.vercel.app/))**
 
 ---
 
